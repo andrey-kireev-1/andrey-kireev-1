@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello, I'm Andrey Kireev
 
-<!--
-**andrey-kireev-1/andrey-kireev-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![codewars](https://www.codewars.com/users/billy_talent/badges/large)](https://www.codewars.com/users/billy_talent)
 
-Here are some ideas to get you started:
+#### - Student of BMSTU (2019 - 2023)
+#### - Skills:
+- Python
+- Django (+ Django REST framework)
+- Aiogram (framework for Telegram Bot API)
+- SQL (working with SQLite & MySQL)
+- C++, C#
+- HTML + CSS(+SCSS/SASS) + basic knowledge of Javascript
+- Linux (using Ubuntu 20.04)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
