@@ -12,4 +12,6 @@
 - also expirienced in C, C++, C#
 - HTML + CSS + basic knowledge of Javascript
 - using Win10 & Ubuntu 20.04
-
+#### - Contacts:
+- Telegram: https://t.me/V_R_K
+- Email: vrk2803@yandex.ru
