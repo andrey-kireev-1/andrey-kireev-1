@@ -6,9 +6,10 @@
 #### - Skills:
 - Python
 - Django (+ Django REST framework)
-- Aiogram (framework for Telegram Bot API)
-- SQL (working with SQLite & MySQL)
-- C++, C#
-- HTML + CSS(+SCSS/SASS) + basic knowledge of Javascript
-- Linux (using Ubuntu 20.04)
+- Golang
+- Aiogram (python framework for Telegram Bot API)
+- SQL (MySQL, DBSQLite, PostgreSQL)
+- also expirienced in C, C++, C#
+- HTML + CSS + basic knowledge of Javascript
+- using Win10 & Ubuntu 20.04
 
